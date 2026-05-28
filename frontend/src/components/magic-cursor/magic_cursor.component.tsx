@@ -169,3 +169,4 @@ const MagicCursorComponent = () => {
 };
 
 export default MagicCursorComponent;
+
